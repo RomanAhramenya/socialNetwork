@@ -1,0 +1,18 @@
+.nav{
+    color:white;
+    grid-area: n;
+    background-color: rgba(4, 3, 73, 0.959);
+}
+.nav li{
+    transition: all 0.2s;
+}
+.nav li:hover {
+    background:rgba(0, 128, 0, 0.438)
+}
+.NavLink{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    color:white
+    
+}

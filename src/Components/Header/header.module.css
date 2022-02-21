@@ -1,0 +1,12 @@
+.header{
+    grid-area: h;
+    background-color:lightgreen
+}
+.header img {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+}
+.header button{
+    margin:0 1vw;
+}

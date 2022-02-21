@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
+.active{
+    background-color: rgba(10, 7, 167, 0.603);
+    width:100%;
+    
+}
